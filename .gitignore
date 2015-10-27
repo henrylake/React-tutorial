@@ -1,0 +1,8 @@
+node_modules/
+
+.sass-cache
+.logs
+.data
+.idea
+
+*.log
